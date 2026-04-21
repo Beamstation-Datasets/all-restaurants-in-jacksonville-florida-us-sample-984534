@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Jacksonville, Florida with a population of over 949k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Jacksonville, Florida, US",
-  "export_job_id": "d3906ec6-b53c-4211-9b8c-0b7c95359436",
+  "export_job_id": "feb6f8c1-599b-4823-acb3-97cf3402957a",
   "github_org": "Beamstation-Datasets",
   "id_short": 984534,
   "location_name": "Jacksonville",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-jacksonville-florida-us-sample-984534",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/984534/beamstation_984534_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_pct": 9.97,
-  "sample_records": 330,
-  "sample_sha256": "74a5606d7384b338c85bf2b4e012467376139a9b5373ebb6cad31d481c23537e",
-  "sample_size_bytes": 1118203,
-  "total_records": 3309,
-  "updated_at": "2026-04-14T16:17:10.489626+00:00"
+  "sample_records": 119,
+  "sample_sha256": "0674ea0b9ee33d9be25e0844be91174f5e262d316f07d76fb248b0c5607a550b",
+  "sample_size_bytes": 398935,
+  "total_records": 1193,
+  "updated_at": "2026-04-21T17:35:09.224293+00:00"
 }
